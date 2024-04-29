@@ -1,3 +1,3 @@
-module sebastiancastano1/greetings
+module github.com/sebastiancastano1/greetings
 
 go 1.22.2
